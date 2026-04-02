@@ -1,5 +1,9 @@
 # Benjamin Kettor Jr's User Page
 
+## My Picture
+
+![Workspace Screenshot](screenshots/command-line.png)
+
 ## About Me
 Hi! I'm Benjamin, a Computer Science student at UC San Diego.
 
