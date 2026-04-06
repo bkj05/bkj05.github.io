@@ -15,6 +15,7 @@ Hi! I'm Benjamin, a Computer Science student at UC San Diego.
 ## Hobbies
 - Coding
 - Soccer
+- Basketball
 - Music
 
 ## Goals
