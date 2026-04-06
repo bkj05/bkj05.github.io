@@ -18,8 +18,8 @@ Hi! I'm Benjamin, a Computer Science student at UC San Diego.
 - Music
 
 ## Goals
-- [] Become a software engineer
-- [] Land internships
+- [ ] Become a software engineer
+- [ ] Land internships
 
 > "Code is like humor. When you have to explain it, it’s bad."
 
