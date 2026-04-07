@@ -2,7 +2,9 @@
 
 ## My Picture
 
-<img src="profilepic/pic.png" alt="My Picture" width="300">
+<p align="center">
+  <img src="profilepic/pic.png" alt="My Picture" width="180">
+</p>
 
 ## About Me
 Hi! I'm Benjamin, a Computer Science student at UC San Diego.
@@ -15,6 +17,7 @@ Hi! I'm Benjamin, a Computer Science student at UC San Diego.
 ## Hobbies
 - Coding
 - Soccer
+- Basketball
 - Music
 
 ## Goals
