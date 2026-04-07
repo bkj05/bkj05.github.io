@@ -2,7 +2,7 @@
 
 ## My Picture
 
-![My Picture](prifilepic/pic.png)
+![My Picture](profilepic/pic.png)
 
 ## About Me
 Hi! I'm Benjamin, a Computer Science student at UC San Diego.
